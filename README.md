@@ -2,7 +2,7 @@
 This is the project for JWT authentication in React frontend & Django backend.
 ## Installation
 - Clone the repo:\
-git clone https://github.com/danielovieda/React-Django-JWT-Auth.git
+git clone https://github.com/BrycenG007/React-Django-auth-temp.git
 
 - Install npm & pip packages:\
 cd frontend\
